@@ -17,6 +17,8 @@ Before running the tests locally, you need to set up the following:
    export MY_SECRET_KEY=""
 
 2.Run the tests using Maven:
-  mvn test
+   ```bash
+     mvn test
+
    
 
