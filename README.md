@@ -18,6 +18,3 @@ Before running the tests locally, you need to set up the following:
 2. Run the tests using Maven:
    ```bash
      mvn test
-
-   
-
