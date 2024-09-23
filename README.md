@@ -15,8 +15,7 @@ Before running the tests locally, you need to set up the following:
 1. Set the secret key in your environment:
    ```bash
    export MY_SECRET_KEY=""
-
-2.Run the tests using Maven:
+2. Run the tests using Maven:
    ```bash
      mvn test
 
